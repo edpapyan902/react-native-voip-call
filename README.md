@@ -441,13 +441,8 @@ ios | Android  | android( Lockscreen)
 <img height="500" src="https://raw.githubusercontent.com/ajith-ab/react-native-voip-call/master/doc/ios1.jpeg" style="max-width:100%;"> | <img height="500" src="https://raw.githubusercontent.com/ajith-ab/react-native-voip-call/master/doc/android-1.jpeg" style="max-width:100%;"> | <img height="500" src="https://raw.githubusercontent.com/ajith-ab/react-native-voip-call/master/doc/android-2.jpeg" style="max-width:100%;">
 
 
-### Donate
-
-<p><a href="https://www.paypal.me/ajithab" rel="nofollow"><img height="75" src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" style="max-width:100%;"></a></p>
-
-
 ### Author
-[Ajith A B](https://www.linkedin.com/in/ajith-a-b-a61303197)
+[Edgar Papyan](https://www.linkedin.com/in/edpapyan902)
 
 ### licenses
 
